@@ -21,5 +21,7 @@ A beginner-friendly Python tool to encrypt and decrypt messages or files using t
    source venv/bin/activate
 
 ## Install required library:
-   ```bash
-   pip install python-docx
+    pip install python-docx
+
+## Run the script:
+    python vigenere_cipher.py
